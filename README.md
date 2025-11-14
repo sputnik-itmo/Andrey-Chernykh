@@ -18,9 +18,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sputnik-Itmo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sputnik-itmo&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ## 📫 Как со мной связаться
 
 [![Sebulbaandrew@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
