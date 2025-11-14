@@ -2,7 +2,7 @@
 <h3 align="center">💻 [Студент] из [Санкт-Петербурга]</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%7C+JavaScript+%7C+React;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Student +ITMO;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 ## 🚀 Обо мне
@@ -17,8 +17,8 @@
 ## 📈 Моя статистика GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sputnik-Itmo&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sputnik-itmo&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ## 📫 Как со мной связаться
